@@ -1,0 +1,16 @@
+{
+  "name": "LiveBall",
+  "version": "1.0.0",
+  "type": "pages",
+  "headline": "LIVEBALL",
+  "items": [
+    {
+      "id": "liveball",
+      "type": "button",
+      "layout": "0,0,12,6",
+      "label": "ОТКРЫТЬ LIVEBALL",
+      "icon": "link",
+      "action": "link:https://liveball.sx/"
+    }
+  ]
+}
